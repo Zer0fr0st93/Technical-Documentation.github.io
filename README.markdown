@@ -6,4 +6,4 @@ Technical Documentation page created on CodePen.io by me for Responsive Web Desi
 
 Codepen URL: [https://codepen.io/zer0fr0st93/full/RJxWvb](https://codepen.io/zer0fr0st93/full/RJxWvb)
 
-Live URL: https://zer0fr0st93.github.io/Technical-Documentation/
+Live URL: https://billgeorgop93.github.io/Technical-Documentation/
